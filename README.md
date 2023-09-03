@@ -1,4 +1,4 @@
-# Proof Of Concept PowerShell Token Grabber (Educational Purposes)
+# Proof Of Concept PowerShell Discord Token Grabber (Educational Purposes)
 
 ## Introduction
 
